@@ -1,1 +1,1 @@
-'remotetest remotetest remotetest  fs';
+'remotetest remotetest remotetest  fs local';
